@@ -1,0 +1,5 @@
+# local dev environment file
+.env
+
+# python cache
+__pycache__
